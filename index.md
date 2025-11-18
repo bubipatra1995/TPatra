@@ -6,6 +6,17 @@ layout: homepage
 
 I am a Ph.D. student at ...
 
+##Education:
+  - Course: B.Sc in Physics
+    Place: Kendrapara Autonomous College, Kendrapara, Odisha
+    Date: July 2012 - May 2015
+- Course:  M.Sc in Physics
+    Place: College of Basic Science and Humanities, OUAT, Odisha, India
+    Date: July 2015 - July 2017
+- Course:  PH.D in Physics
+    Place: National Institute of Technology, Rourkela, Odisha, India
+    Date: July 2019 - (Continuing)
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
