@@ -6,8 +6,9 @@ layout: homepage
 
 I am a Ph.D. student at ...
 
-##Education:
-  - Course: B.Sc in Physics
+## Education
+
+- Course: B.Sc in Physics
     Place: Kendrapara Autonomous College, Kendrapara, Odisha
     Date: July 2012 - May 2015
 - Course:  M.Sc in Physics
